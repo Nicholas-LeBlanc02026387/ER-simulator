@@ -9,8 +9,6 @@ Moving the character or changing the camera angle will cause AutoHotKey to no lo
 
 There are 7 AutoHotKey scripts in this project
 
-All AutoHotKey scripts are calibrated for a 4k display
-----------------------------------------------------------------------------------------------------
 The following are used to chose which door you choose, and will give you a new situation if you are correct
 
 ,left.ahk
@@ -30,3 +28,5 @@ The following measurement tools that are not required to play
 .search.ahk is a tool to find png locations
 
 .xyposition.ahk is a tool that moves the mouse to given coordinates
+
+Important Note: All AutoHotKey scripts are calibrated for a 4k display, the measurement tools can be used to find coordinates for different reolutions
