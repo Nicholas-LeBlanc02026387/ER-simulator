@@ -12,7 +12,7 @@ Moving the character or changing the camera angle will cause AutoHotKey to no lo
 AutoHotKey
 --
 
-There are 7 AutoHotKey scripts in this project
+There are 7 AutoHotKey scripts in this project, all the scripts must be in the same folder as the PNGs to run
 
 The following are used to chose which door you choose, and will give you a new situation if you are correct
 
