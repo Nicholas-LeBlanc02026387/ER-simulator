@@ -5,12 +5,11 @@ MYR
 --
 MYR is a VR sandbox developed by Fred Martin's research lab at University of Massachusetts Lowell. https://learnmyr.org
 
-AutoHotKey can be download from https://www.autohotkey.com/
-
 Moving the character or changing the camera angle will cause AutoHotKey to no longer work, refreshing the page will fix this. The link to the ER simulator is https://learnmyr.org/scene/62f7f6af47bad400196ba4e0
 
 AutoHotKey
 --
+AutoHotKey can be download from https://www.autohotkey.com/
 
 There are 7 AutoHotKey scripts in this project, all the scripts must be in the same folder as the PNGs to run
 
@@ -38,6 +37,6 @@ Important Note: All AutoHotKey scripts are calibrated for a 4k display, the meas
 
 AntiMicroX
 --
-This game can optionally be played with a controller using AntiMicroX by using myr.gamecontroller.amgp
-
 AntiMicroX can be installed from https://github.com/AntiMicroX/antimicrox/releases/tag/3.2.5
+
+This game can optionally be played with a controller using AntiMicroX by using myr.gamecontroller.amgp
