@@ -3,6 +3,8 @@ This program is meant to play an ER triage simulator with MYR using AutoHotKey
 
 MYR is a VR sandbox developed by Fred Martin's research lab at University of Massachusetts Lowell. https://learnmyr.org
 
+AutoHotKey can be download from https://www.autohotkey.com/
+
 Moving the character or changing the camera angle will cause AutoHotKey to no longer work, refreshing the page will fix this. The link to the ER simulator is https://learnmyr.org/scene/62f7f6af47bad400196ba4e0
 
 There are 7 AutoHotKey scripts in this project
